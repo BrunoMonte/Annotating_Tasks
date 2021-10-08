@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+.form{
+    background-color: rgb(127 143 166);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.form label{
+    display: block;
+}
+
+.form input,
+.form textarea{
+    padding: 10px;
+    width: 100%;
+}
+
+.item{
+    background-color: #941094;
+    width: 400px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
